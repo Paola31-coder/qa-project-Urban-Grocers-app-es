@@ -14,4 +14,4 @@
 # Instrucciones para ejecutar las pruebas:
 # Api de Urban Grocers. 
 # Tener instalados los paquetes pytest y request para ejecutar las pruebas.
-# Ejecuta todas las pruebas con el comando pytest.
+# Ejecuta todas las pruebas con el comando pytest..
